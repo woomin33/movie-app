@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel ./index.html",
-    "build": "pacel build ./index.html"
+    "build": "parcel build ./index.html"
   },
   "keywords": [],
   "author": "",
