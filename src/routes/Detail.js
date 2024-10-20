@@ -46,7 +46,7 @@ export default class Detail extends Component{
         </div>
         <div>
           <h3>Actors</h3>
-          <p>${cast[0] ? cast[0].name : '-'}</p>
+          <p>${cast ? cast[0].name : '-'}</p>
         </div>
         <div>
           <h3>Director</h3>

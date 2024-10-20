@@ -48,7 +48,7 @@ export default class TheHeader extends Component{
       </div>
       <div class="center"></div>
       <div class="end">
-        <a href="#/about" class="user"><img src="./src/assets/movie-icon-3.png" alt=""></a>
+        <a href="#/about" class="user"><img src="" alt=""></a>
       </div>
     `
     const search = new Search().el
